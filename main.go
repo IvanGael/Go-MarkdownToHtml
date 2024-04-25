@@ -47,4 +47,4 @@ func main() {
 	fmt.Printf("Conversion successful. HTML file saved at: %s\n", output)
 }
 
-// go run main.go -input README.md -output output.html
+// go run main.go -input README_TEST.md -output output.html
